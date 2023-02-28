@@ -3,7 +3,11 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  
 }
 body{
+  font-family: 'Courier New', Courier, monospace;
   background-color: #0A192F;
+  text-decoration: none;
+  list-style-type: none;
 }

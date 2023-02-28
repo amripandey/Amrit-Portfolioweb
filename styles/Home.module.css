@@ -1,30 +1,61 @@
-.nav {
-  width: 100%;
-  overflow: none;
-  text-align: left;
-  color: black;
-  font-size: 18px;
-  padding: 15px;
-  display: inline;
+.grid{
+  display: grid;
 }
 
+/* top navbar */
+.nav {
+  margin-top: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+  width: 100%;
+  overflow: none;
+  text-align: right;
+  position: fixed;
+}
 .nav li {
   color: rgb(100, 255, 218);
   display: inline;
-  padding: 50px;
+  padding: 10px;
+}
+.logo{
+  font-size:32px;
+  color: red;
+  margin-left: 30px;
 }
 
-.nav a {
+.nav li a {
+  font-size: 15px;
   font-family: 'Courier New', Courier, monospace;
   font-weight: 400;
   font-style: normal;
-  color: rgb(100, 255, 218);
+  color: white;
+  text-decoration: none;
+}
+div.Resume {
+  display: inline;
+  font-size: 20px;
+  color: rgb(100, 255,218);
+  padding: 10px;
+  background-color: transparent;
   text-decoration: none;
 }
 
-.intro {
-  margin: 40px;
-  text-align: center;
-  font-size: 100px;
-  text-decoration: none;
+
+/*left side bar */
+.container{
+  display: block;
+  width: 50px;
+  overflow: hidden;
+  height:100%;
+  position: fixed;
+  margin-top: 300px;
+  padding: 50px;
+  list-style-type: none;
+  color: rgb(100,255,218);
+}
+.container li{
+  list-style-type: none;
+  padding: 20px;
 }
