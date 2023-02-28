@@ -10,7 +10,7 @@ export default function Leftsidebar() {
   return (
     <nav className={styles.container}>
         <ul>
-            <li>< VscGithubAlt /></li>
+            <li><VscGithubAlt /></li>
             <li><IoLogoLinkedin /></li>
             <li><IoLogoFacebook /></li>
             <li><IoLogoTwitter /></li>

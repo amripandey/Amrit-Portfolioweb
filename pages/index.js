@@ -5,7 +5,6 @@ import styles from '<import>/styles/Home.module.css'
 import Section from '<import>/components/Section'
 import Header from '<import>/components/Header'
 import Leftsidebar from '<import>/components/Leftsidebar'
-import Content from '<import>/components/Content'
 
 
 export default function Home() {
@@ -21,7 +20,6 @@ export default function Home() {
         <Header />
         <Leftsidebar />
         <Section />
-        <Content />
       </main>
     </>
   )
