@@ -1,1 +1,30 @@
+.nav {
+  width: 100%;
+  overflow: none;
+  text-align: left;
+  color: black;
+  font-size: 18px;
+  padding: 15px;
+  display: inline;
+}
 
+.nav li {
+  color: rgb(100, 255, 218);
+  display: inline;
+  padding: 50px;
+}
+
+.nav a {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(100, 255, 218);
+  text-decoration: none;
+}
+
+.intro {
+  margin: 40px;
+  text-align: center;
+  font-size: 100px;
+  text-decoration: none;
+}
