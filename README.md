@@ -5,3 +5,6 @@
 - This is a porfolio website build with next-js.
 - This Website have About me, Experience, Work and Contact.
 - This is only for traning purpose only.
+
+## Deployed version is in the given link 
+- [https://amritportfolio.netlify.app/](Amritportfolio)
