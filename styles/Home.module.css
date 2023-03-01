@@ -1,5 +1,7 @@
 .grid {
   display: grid;
+  overflow: -moz-hidden-unscrollable;
+  overflow: hidden;
 }
 
 /* top navbar */
@@ -80,6 +82,7 @@ div.Resume {
 }
 
 .p1element {
+  margin-top: 50px;
   margin-bottom: 30px;
   font-size: 16px;
   font-weight: 400;
