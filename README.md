@@ -8,3 +8,4 @@
 
 ## Deployed version is in the given link 
 - [www.Amritportfoliowebs.com](https://amritportfolio.netlify.app)
+- [Another link](https://amrit-portfolioweb.vercel.app)
