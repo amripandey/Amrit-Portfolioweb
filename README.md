@@ -7,4 +7,4 @@
 - This is only for traning purpose only.
 
 ## Deployed version is in the given link 
-- [https://amritportfolio.netlify.app/](www.Amritportfoliowebs.com)
+- [www.Amritportfoliowebs.com](https://amritportfolio.netlify.app)
