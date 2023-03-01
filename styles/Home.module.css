@@ -5,7 +5,7 @@
 /* top navbar */
 .nav {
   margin-right: 20px;
-  margin-top: 15px;
+  margin-top: 0px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -13,6 +13,10 @@
   width: 100%;
   overflow: none;
   text-align: right;
+  position: fixed;
+  top: 0;
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
 }
 
 .nav li {
